@@ -3,6 +3,9 @@
 # Project Overview
 The Spotify Analysis project focuses on processing and analyzing the Spotify Dataset 2023. This dataset has been meticulously cleaned and preprocessed to derive meaningful insights. The project leverages Apache Kafka for real-time data streaming, AWS services for scalable data processing and storage, and Visual Studio Code as the development environment.
 
+![image](https://github.com/sowmyakoditya/Spotify-Analysis-End-to-End-Data-Engineering-Project-with-Kafka-on-AWS/assets/166762015/520fc806-6d7b-4684-b5b6-db02811ef0ce)
+
+
 # Project Structure
 **Data Files:** The cleaned dataset is organized into three CSV files: albums.csv, artists.csv, and track.csv.
 **Code Structure:** The project is structured into three main directories within a parent directory named PROJECT: artist, albums, and tracks. Each directory contains the respective producer.py and consumer.py files.
